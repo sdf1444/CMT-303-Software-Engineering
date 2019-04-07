@@ -1,0 +1,239 @@
+{
+    "name": "General Knowledge",
+    "testID": 1,
+    "module": "Python",
+    "QnA": {
+        "1": {
+            "q": "Which sign of the zodiac comes between Leo and Libra?\n",
+            "correctA": [
+                "Virgo",
+                "d"
+            ],
+            "wrongAs": [
+                [
+                    "Taurus",
+                    "a"
+                ],
+                [
+                    "Capricorn",
+                    "b"
+                ],
+                [
+                    "Aries",
+                    "c"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "The complete order of the zodiac is: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius then finally Pisces."
+        },
+        "2": {
+            "q": "What type of cheese is Stilton?",
+            "correctA": [
+                "Blue",
+                "a"
+            ],
+            "wrongAs": [
+                [
+                    "Hard",
+                    "b"
+                ],
+                [
+                    "Green",
+                    "c"
+                ],
+                [
+                    "Red",
+                    "d"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Stilton is a blue cheese, known for its characteristic strong smell and taste."
+        },
+        "3": {
+            "q": "In which ocean is Madagascar?",
+            "correctA": [
+                "Indian",
+                "c"
+            ],
+            "wrongAs": [
+                [
+                    "Arctic",
+                    "a"
+                ],
+                [
+                    "Pacific",
+                    "b"
+                ],
+                [
+                    "Atlantic",
+                    "d"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Madagascar is an island country situated in the Indian Ocean, off the coast of East Africa."
+        },
+        "4": {
+            "q": "Which is the largest US state (by area?)",
+            "correctA": [
+                "Alaska",
+                "b"
+            ],
+            "wrongAs": [
+                [
+                    "Arizona",
+                    "a"
+                ],
+                [
+                    "Texas",
+                    "c"
+                ],
+                [
+                    "California",
+                    "d"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Alaska is the largest state (by area) in the US, at 665,384 square miles. It is followed by Texas then California. Arizona is the 6th largest."
+        },
+        "5": {
+            "q": "Which is the largest US state (by population?)",
+            "correctA": [
+                "California",
+                "c"
+            ],
+            "wrongAs": [
+                [
+                    "Florida",
+                    "a"
+                ],
+                [
+                    "New York",
+                    "b"
+                ],
+                [
+                    "Texas",
+                    "d"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "California has the highest population in the US with approx. 39.5 million citizens. It is followed by Texas, Florida then New York."
+        },
+        "6": {
+            "q": "What is the most spoken language in the world?",
+            "correctA": [
+                "Chinese (Mandarin)",
+                "d"
+            ],
+            "wrongAs": [
+                [
+                    "Arabic",
+                    "a"
+                ],
+                [
+                    "English",
+                    "b"
+                ],
+                [
+                    "Spanish",
+                    "c"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Mandarin is the most spoken language in the world with a total of 1.09 billion speakers. It is followed by English, Hindustani, Spanish and then Arabic."
+        },
+        "7": {
+            "q": "7) What is the capital city of Switzerland?",
+            "correctA": [
+                "Bern",
+                "d"
+            ],
+            "wrongAs": [
+                [
+                    "Zurich",
+                    "a"
+                ],
+                [
+                    "Basel",
+                    "b"
+                ],
+                [
+                    "Geneva",
+                    "c"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Although Switzerland is without an official capital, Bern is the de-facto seat of government in the country."
+        },
+        "8": {
+            "q": "Which is the largest country in Europe?",
+            "correctA": [
+                "Russia",
+                "d"
+            ],
+            "wrongAs": [
+                [
+                    "France",
+                    "a"
+                ],
+                [
+                    "Norway",
+                    "b"
+                ],
+                [
+                    "Germany",
+                    "c"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Russia is the largest, with an area of 3.9 squared kilometres. It is also the largest country in the world! "
+        },
+        "9": {
+            "q": "What is the smallest European country?\n",
+            "correctA": [
+                "Vatican City",
+                "d"
+            ],
+            "wrongAs": [
+                [
+                    "Luxembourg",
+                    "a"
+                ],
+                [
+                    "Malta",
+                    "b"
+                ],
+                [
+                    "Monaco",
+                    "c"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Vatican City is the smallest, at 0.44 kilometres squared. It is also the smallest country in the world!"
+        },
+        "10": {
+            "q": "Who is the richest person in the world?",
+            "correctA": [
+                "Jeff Bezos",
+                "b"
+            ],
+            "wrongAs": [
+                [
+                    "Bill Gates",
+                    "a"
+                ],
+                [
+                    "Mark Zuckerberg",
+                    "c"
+                ],
+                [
+                    "Warren Buffet",
+                    "d"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Jeff Bezos is the richest, with an average net work of $4billion. He is the founder of Amazon."
+        }
+    },
+    "Start date": null,
+    "End date": null
+}

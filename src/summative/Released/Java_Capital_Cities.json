@@ -1,0 +1,239 @@
+{
+    "name": "Capital Cities",
+    "testID": 1,
+    "module": "Java",
+    "QnA": {
+        "1": {
+            "q": "What is the capital city of France?",
+            "correctA": [
+                "Paris",
+                "d"
+            ],
+            "wrongAs": [
+                [
+                    "Marseille",
+                    "a"
+                ],
+                [
+                    "Nice",
+                    "b"
+                ],
+                [
+                    "Lyon",
+                    "c"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Paris is the capital city of France."
+        },
+        "2": {
+            "q": "What is the capital city of Argentina?",
+            "correctA": [
+                "Buenos Aires",
+                "d"
+            ],
+            "wrongAs": [
+                [
+                    "Mendoza",
+                    "a"
+                ],
+                [
+                    "Cordoba",
+                    "b"
+                ],
+                [
+                    "Salta",
+                    "c"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Buenos Aires is the capital of Argentina. One of its famous landmarks if the Plaza de Mayo."
+        },
+        "3": {
+            "q": "What is the capital city of Kenya?",
+            "correctA": [
+                "Nairobi",
+                "a"
+            ],
+            "wrongAs": [
+                [
+                    "Mombasa",
+                    "b"
+                ],
+                [
+                    "Nakuru",
+                    "c"
+                ],
+                [
+                    "Kisumum",
+                    "d"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Nairobi is the capital of Kenya. It is also the largest city in Kenya and the Nairobi River flows through the city."
+        },
+        "4": {
+            "q": "What is the capital city of Costa Rica?",
+            "correctA": [
+                "San Jose",
+                "d"
+            ],
+            "wrongAs": [
+                [
+                    "Puntarenas",
+                    "a"
+                ],
+                [
+                    "Alajuela",
+                    "b"
+                ],
+                [
+                    "Limon",
+                    "c"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "San Jose is the capital city of Costa Rica. There is a city in California of the same name, which is situated in Silicon Valley. "
+        },
+        "5": {
+            "q": "What is the capital city of New Zealand?",
+            "correctA": [
+                "Wellington",
+                "d"
+            ],
+            "wrongAs": [
+                [
+                    "Auckland",
+                    "a"
+                ],
+                [
+                    "Christchurch",
+                    "b"
+                ],
+                [
+                    "Rotorua",
+                    "c"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "The capital of New Zealand is Wellington. It is situated on the North Island and is the second most populated city in the country, after Auckland."
+        },
+        "6": {
+            "q": "What is the capital city of Ghana?",
+            "correctA": [
+                "Accra",
+                "b"
+            ],
+            "wrongAs": [
+                [
+                    "Kumasi",
+                    "a"
+                ],
+                [
+                    "Cape Coast",
+                    "c"
+                ],
+                [
+                    "Sunyani",
+                    "d"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Accra is the capital of Ghana. It is the largest city in the country."
+        },
+        "7": {
+            "q": "What is the capital city of Estonia?",
+            "correctA": [
+                "Tallinn",
+                "d"
+            ],
+            "wrongAs": [
+                [
+                    "Tartu",
+                    "a"
+                ],
+                [
+                    "Kohtla-Jarve",
+                    "b"
+                ],
+                [
+                    "Narva",
+                    "c"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Tallinn is the capital city. It is situated on the Northern coast of Estonia and has a population of 440,000."
+        },
+        "8": {
+            "q": "What is the capital city of Australia?",
+            "correctA": [
+                "Canberra",
+                "c"
+            ],
+            "wrongAs": [
+                [
+                    "Brisbane",
+                    "a"
+                ],
+                [
+                    "Melbourne",
+                    "b"
+                ],
+                [
+                    "Sydney",
+                    "d"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Canberra is the capital city of Australia, despite only being the 8th-largest city in the country."
+        },
+        "9": {
+            "q": "What is the capital city of India?",
+            "correctA": [
+                "New Delhi",
+                "a"
+            ],
+            "wrongAs": [
+                [
+                    "Bangalore",
+                    "b"
+                ],
+                [
+                    "Mumbai",
+                    "c"
+                ],
+                [
+                    "Kanpur",
+                    "d"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "New Delhi is an urban district of Delhi, and it the capital city of India. "
+        },
+        "10": {
+            "q": "What is the capital city of Spain?",
+            "correctA": [
+                "Madrid",
+                "d"
+            ],
+            "wrongAs": [
+                [
+                    "Valencia",
+                    "a"
+                ],
+                [
+                    "Barcelona",
+                    "b"
+                ],
+                [
+                    "Seville",
+                    "c"
+                ]
+            ],
+            "mark": "1",
+            "feedback": "Madrid is the capital of Spain, and the third-largest city in the EU, behind London and Berlin. "
+        }
+    },
+    "Start date": "01/04/2019",
+    "End date": "07/04/2019"
+}
