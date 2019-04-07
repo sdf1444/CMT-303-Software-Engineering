@@ -24,8 +24,13 @@ password: 123
 
 ### Authors: 
 Spencer Du
+
 Armando Castany
+
 Zak Kyriacou
+
 Hannah Rosser
+
 Qifa Cai
+
 Chaoran Wang
